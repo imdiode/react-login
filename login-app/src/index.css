@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.login-container {
+    margin-left: 50%;
+    transform: translate( -50%, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-container h2 {
+    display: block;
+    position: relative;
+}
+
+.login-container form {
+    display: block;
+    position: relative;
+}
